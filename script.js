@@ -191,7 +191,7 @@ function render() {
     }
 
 
-    if(tries === 10){
+    if(tries === 100){
 
       message.innerHTML = `Ohh! You lost. Please refresh and play Again`;
       gameOver = true;
