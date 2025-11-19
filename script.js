@@ -103,8 +103,8 @@ function reset(){
 
   tries = 0;
   score = 100;
-  document.querySelector('.js-score-box').innerHTML = `Score: ${score}`;
-  document.querySelector('.js-tries-box').innerHTML = `Tries: ${tries}`;
+  document.querySelector('.js-score-box').innerHTML = `🏆 Score: ${score}`;
+  document.querySelector('.js-tries-box').innerHTML = `🎯 Tries: ${tries}`;
 }
 
 
