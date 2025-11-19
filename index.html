@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Guess Their Age – Dark Gaming Theme</title>
+
+<!-- Gaming font -->
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;700&display=swap" rel="stylesheet">
+<link href="style.css" rel="stylesheet">
+
+</head>
+<body>
+
+<div class="container">
+
+    <div class="top-boxes">
+        <div class="js-score-box">🏆 Score: 100</div>
+        <div class="js-tries-box">🎯 tries: 0</div>
+    </div>
+
+    <h3 class="js-name">Select Gender</h3>
+
+    <img src="" alt="Person" class="js-image">
+
+    <div class="gender-buttons">
+        <button class="js-male-button">Male</button>
+        <button class="js-female-button">Female</button>
+        <button class="js-other-button">Other</button>
+    </div>
+
+    <div class="message js-pop-up"></div>
+
+    <div class="input-area">
+        <input type="number" placeholder="Enter age..." class="js-age-input">
+        <button class="js-submit">Guess</button>
+    </div>
+
+</div>
+
+
+<div id="popup">
+    <div id="popupBox">
+        <div id="popupText" class="js-message-box"></div>
+        
+    </div>
+</div>
+
+<script type="module" src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+export const more_guess = ["Really? You think I'm that old? 😭😂",
+"Ouch… that guess hurt a little 🥲",
+"Come on, I’m not that ancient! 😤😂",
+"Broooo, do I look like someone’s uncle? 😆👴",
+"Hey! I’m still young, okay? 😎✨",
+"Chill please… I’m not a fossil yet 😭",
+"Wow, that guess aged me extra years 😵‍💫",
+"Common yaar, I'm much younger than that 😌👌",
+"Do I really look that old to you? 😭😭",
+"Nope! I'm younger than that — try again 😄🔁"];
+
+export const less_guess = ["Aww, you think I look that young? 😌✨",
+"Haha thanks, but I'm older than that 😄👍",
+"Cute guess… but nope, I'm a bit older 😅🎂",
+"Wow, you just made my day 😎❤️",
+"I wish! But I'm older than that 😂🎉",
+"Sweet guess, but add a few more years 😆🕒",
+"You’re too kind! But I'm not that young 😭✨",
+"Nice try 👀 but I'm older than your guess 😄",
+"I wish if I would be! I'm actually older 😂🤏",
+"Nope, guess higher — I'm not that young 😄🔼"];
